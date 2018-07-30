@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 BLE: Basic Landmark Embedding Algorithm
 LSQ: Local Subgraph Query
 ESQ: Ensemble Subgraph Query
